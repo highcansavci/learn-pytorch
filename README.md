@@ -11,7 +11,10 @@ Learning PyTorch
 * Dense Neural Network in CNN:  
 ![image](https://user-images.githubusercontent.com/43791867/216544644-8584f666-11fd-4537-879c-d41f2dabb8b8.png)  
 * ANN vs RNN:  
-![image](https://user-images.githubusercontent.com/43791867/218069588-53ec52ca-02eb-44e9-a49d-f615e261f5fc.png)
+![image](https://user-images.githubusercontent.com/43791867/218069588-53ec52ca-02eb-44e9-a49d-f615e261f5fc.png)  
+* Tensorflow vs PyTorch:  
+![image](https://user-images.githubusercontent.com/43791867/220305389-e9aabd2d-0d8f-4b09-ace0-9140d1e2b63c.png)
+
 
 
 
