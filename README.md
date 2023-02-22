@@ -13,7 +13,10 @@ Learning PyTorch
 * ANN vs RNN:  
 ![image](https://user-images.githubusercontent.com/43791867/218069588-53ec52ca-02eb-44e9-a49d-f615e261f5fc.png)  
 * Tensorflow vs PyTorch:  
-![image](https://user-images.githubusercontent.com/43791867/220305389-e9aabd2d-0d8f-4b09-ace0-9140d1e2b63c.png)
+![image](https://user-images.githubusercontent.com/43791867/220305389-e9aabd2d-0d8f-4b09-ace0-9140d1e2b63c.png)  
+* Data Augmentation Pros and Cons:  
+![image](https://user-images.githubusercontent.com/43791867/220543212-4f20377d-20db-4f4c-a360-21229d28e719.png)
+
 
 
 
