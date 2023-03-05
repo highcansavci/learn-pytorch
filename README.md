@@ -15,7 +15,10 @@ Learning PyTorch
 * Tensorflow vs PyTorch:  
 ![image](https://user-images.githubusercontent.com/43791867/220305389-e9aabd2d-0d8f-4b09-ace0-9140d1e2b63c.png)  
 * Data Augmentation Pros and Cons:  
-![image](https://user-images.githubusercontent.com/43791867/220543212-4f20377d-20db-4f4c-a360-21229d28e719.png)
+![image](https://user-images.githubusercontent.com/43791867/220543212-4f20377d-20db-4f4c-a360-21229d28e719.png)  
+* GAN:  
+![image](https://user-images.githubusercontent.com/43791867/222977544-84cf7d79-e93b-48a4-98be-dee1093c4df9.png)
+
 
 
 
