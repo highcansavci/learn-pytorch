@@ -17,7 +17,10 @@ Learning PyTorch
 * Data Augmentation Pros and Cons:  
 ![image](https://user-images.githubusercontent.com/43791867/220543212-4f20377d-20db-4f4c-a360-21229d28e719.png)  
 * GAN:  
-![image](https://user-images.githubusercontent.com/43791867/222977544-84cf7d79-e93b-48a4-98be-dee1093c4df9.png)
+![image](https://user-images.githubusercontent.com/43791867/222977544-84cf7d79-e93b-48a4-98be-dee1093c4df9.png)  
+* GAN Pseudocode:  
+![image](https://user-images.githubusercontent.com/43791867/222978788-7181fa33-6b8f-4f54-8ba7-de6036a2d3ef.png)
+
 
 
 
