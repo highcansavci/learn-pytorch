@@ -19,7 +19,9 @@ Learning PyTorch
 * GAN:  
 ![image](https://user-images.githubusercontent.com/43791867/222977544-84cf7d79-e93b-48a4-98be-dee1093c4df9.png)  
 * GAN Pseudocode:  
-![image](https://user-images.githubusercontent.com/43791867/222978788-7181fa33-6b8f-4f54-8ba7-de6036a2d3ef.png)
+![image](https://user-images.githubusercontent.com/43791867/222978788-7181fa33-6b8f-4f54-8ba7-de6036a2d3ef.png)  
+![image](https://user-images.githubusercontent.com/43791867/222979130-10a1ebb2-548a-45a4-95ed-c9350618b3c8.png)
+
 
 
 
